@@ -1,0 +1,3 @@
+The quick brown fox jumps over the lazy dog.
+Learning to code opens up a world of possibilities.
+Make sure to close your file streams after reading them!

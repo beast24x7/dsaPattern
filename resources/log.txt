@@ -1,0 +1,8 @@
+
+INFO App started
+ERROR Database failed
+INFO Running
+ERROR Timeout
+ERROR DB_DOWN
+ERROR DB_DOWN
+ERROR TIMEOUT
